@@ -1,5 +1,5 @@
 tensor2tensor
-tensorflow==1.12.1
+tensorflow==1.15.0
 pandas
 networkx
 configparser
